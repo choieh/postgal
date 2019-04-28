@@ -821,6 +821,10 @@ footer {
         width: 50%;
         margin-bottom: 0;
     }
+   
+   nav .gnb li:hover a{
+        color: #fff;
+    }
 
 }
 
